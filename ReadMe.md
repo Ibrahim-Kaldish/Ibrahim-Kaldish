@@ -1,4 +1,17 @@
-<div align="center"> <img src="assets/header.svg" alt="Ibrahim Kaldish, QA Automation, Software Testing and Competitive Programming" width="100%" /> <a href="https://github.com/Ibrahim-Kaldish"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&height=50&lines=Test+Automation+with+Selenium+%7C+Appium+%7C+Playwright;Java+%2B+TestNG+%2B+Maven+Frameworks;API+Testing+with+Postman+%26+REST;Performance+Testing+with+JMeter;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Preparing+for+ISTQB+Foundation+Level+v4" alt="Animated list of my skills: test automation, Java, API testing, performance testing, CI/CD" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=Ibrahim-Kaldish&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views counter" /> <img src="https://img.shields.io/github/followers/Ibrahim-Kaldish?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /> </div>
+<div align="center">
+
+<img src="assets/header.svg" alt="Ibrahim Kaldish, QA Automation, Software Testing and Competitive Programming" width="100%" />
+
+<a href="https://github.com/Ibrahim-Kaldish">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&height=50&lines=Test+Automation+with+Selenium+%7C+Appium+%7C+Playwright;Java+%2B+TestNG+%2B+Maven+Frameworks;API+Testing+with+Postman+%26+REST;Performance+Testing+with+JMeter;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Preparing+for+ISTQB+Foundation+Level+v4" alt="Animated list of my skills: test automation, Java, API testing, performance testing, CI/CD" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ibrahim-Kaldish&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
+<img src="https://img.shields.io/github/followers/Ibrahim-Kaldish?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+
+</div>
 
 ---
 
@@ -154,6 +167,24 @@
 </div>
 
 </details>
+
+<details>
+<summary><b>🏆 Trophies, top repos and a dev quote</b></summary>
+<br/>
+
+<div align="center">
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Ibrahim-Kaldish&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=Ibrahim-Kaldish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+</details>
+
+---
 
 ## 💰 You can help me by Donating
 
