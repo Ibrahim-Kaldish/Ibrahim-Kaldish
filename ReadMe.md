@@ -147,22 +147,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Ibrahim-Kaldish&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![Top contributed repos](https://github-contributor-stats.vercel.app/api?username=Ibrahim-Kaldish&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
 ### ✍️ Random Dev Quote
 
 <div align="center">
