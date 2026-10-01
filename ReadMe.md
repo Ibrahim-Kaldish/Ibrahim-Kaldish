@@ -19,7 +19,7 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="26" height="26" /> Hi, I'm **Ibrahim**, a Computer Engineering graduate (**2nd in my class, with honors**) who loves breaking software before users do. I design clean, maintainable test automation frameworks and enjoy turning slow manual regression into fast, reliable pipelines.
 
-
+|||
 |---|---|
 | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" alt="🔭" width="28" height="28" /> **Currently building** | Test automation frameworks with **Selenium WebDriver, Java, TestNG, and Maven**, using Page Object Model, data-driven tests, and rich reporting |
 | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="28" height="28" /> **What I do** | Freelance **software QC/testing** and AI training/annotation, plus work as a **Teaching Assistant** at two universities |
