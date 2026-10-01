@@ -21,15 +21,15 @@
 
 |||
 |---|---|
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" alt="🔭" width="28" height="28" /> **Currently building** | Test automation frameworks with **Selenium WebDriver, Java, TestNG, and Maven**, using Page Object Model, data-driven tests, and rich reporting |
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="28" height="28" /> **What I do** | Freelance **software QC/testing** and AI training/annotation, plus work as a **Teaching Assistant** at two universities |
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="28" height="28" /> **Open to collaborating on** | Open-source **QA automation** projects and test-framework tooling |
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64b/512.gif" alt="🙋" width="28" height="28" /> **Looking for help with** | **CI/CD pipelines for test suites** (Jenkins, GitHub Actions) and advanced framework design |
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="28" height="28" /> **Currently learning** | **ISTQB Foundation Level v4**, deeper **Appium** mobile automation, and **JMeter** performance testing |
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" alt="💬" width="28" height="28" /> **Ask me about** | Java, Selenium, Appium, TestNG, Maven, JMeter, and **competitive programming** |
-| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="28" height="28" /> **Fun fact** | I solve **Codeforces** problems for fun, and I'm also active on ICPC and LeetCode |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" alt="🔭" width="30" height="28" /> **Currently building** | Test automation frameworks with **Selenium WebDriver, Java, TestNG, and Maven**, using Page Object Model, data-driven tests, and rich reporting |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="30" height="28" /> **What I do** | Freelance **software QC/testing** and AI training/annotation, plus work as a **Teaching Assistant** at two universities |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="30" height="28" /> **Open to collaborating on** | Open-source **QA automation** projects and test-framework tooling |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64b/512.gif" alt="🙋" width="30" height="28" /> **Looking for help with** | **CI/CD pipelines for test suites** (Jenkins, GitHub Actions) and advanced framework design |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="30" height="28" /> **Currently learning** | **ISTQB Foundation Level v4**, deeper **Appium** mobile automation, and **JMeter** performance testing |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" alt="💬" width="30" height="28" /> **Ask me about** | Java, Selenium, Appium, TestNG, Maven, JMeter, and **competitive programming** |
+| <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="30" height="28" /> **Fun fact** | I solve **Codeforces** problems for fun, and I'm also active on ICPC and LeetCode |
 
-> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="22" height="22" /> *My goal: ship software that works the first time, and automate everything that doesn't.*
+> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="30" height="22" /> *My goal: ship software that works the first time, and automate everything that doesn't.*
 
 ---
 
