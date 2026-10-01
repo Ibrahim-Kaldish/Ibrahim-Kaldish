@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ibrahim%20Kaldish&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20%7C%20Software%20Testing%20%7C%20Competitive%20Programming&descSize=18&descAlignY=58" alt="Ibrahim Kaldish banner" width="100%" />
+<img src="assets/header.svg" alt="Ibrahim Kaldish, QA Automation, Software Testing and Competitive Programming" width="100%" />
 
 <a href="https://github.com/Ibrahim-Kaldish">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&height=50&lines=Test+Automation+with+Selenium+%7C+Appium+%7C+Playwright;Java+%2B+TestNG+%2B+Maven+Frameworks;API+Testing+with+Postman+%26+REST;Performance+Testing+with+JMeter;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Preparing+for+ISTQB+Foundation+Level+v4" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&height=50&lines=Test+Automation+with+Selenium+%7C+Appium+%7C+Playwright;Java+%2B+TestNG+%2B+Maven+Frameworks;API+Testing+with+Postman+%26+REST;Performance+Testing+with+JMeter;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Preparing+for+ISTQB+Foundation+Level+v4" alt="Animated list of my skills: test automation, Java, API testing, performance testing, CI/CD" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ibrahim-Kaldish&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ibrahim-Kaldish&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
 <img src="https://img.shields.io/github/followers/Ibrahim-Kaldish?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 
 </div>
@@ -19,6 +19,7 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="26" height="26" /> Hi, I'm **Ibrahim**, a Computer Engineering graduate (**2nd in my class, with honors**) who loves breaking software before users do. I design clean, maintainable test automation frameworks and enjoy turning slow manual regression into fast, reliable pipelines.
 
+| | |
 |---|---|
 | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52d/512.gif" alt="🔭" width="28" height="28" /> **Currently building** | Test automation frameworks with **Selenium WebDriver, Java, TestNG, and Maven**, using Page Object Model, data-driven tests, and rich reporting |
 | <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="28" height="28" /> **What I do** | Freelance **software QC/testing** and AI training/annotation, plus work as a **Teaching Assistant** at two universities |
@@ -74,7 +75,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE376A?style=for-the-badge&logo=appium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
@@ -122,23 +123,42 @@
 
 # 🚀 Featured Projects
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **Swag Labs (SauceDemo) Automation** | Selenium 4, Java, TestNG, Maven | Login, product/cart, checkout, and order overview flows; JS alerts, DOM modals, and credential prompts via ChromeOptions; suite run from `testng.xml` through Maven Surefire |
-| **OrangeHRM Automation Framework** | Selenium, Java, TestNG, Maven | Login/logout, PIM, Leave/Time, and Admin; Page Object Model; data-driven tests; parallel and cross-browser runs; Extent/Allure, Log4j, and failure screenshots; Jenkins/GitHub Actions CI |
+<details open>
+<summary><b>Swag Labs (SauceDemo) Automation</b> · Selenium 4, Java, TestNG, Maven</summary>
+<br/>
+
+- Automated login, product/cart, checkout, and order overview flows
+- Handled JavaScript alerts, DOM modals, and browser credential prompts via ChromeOptions
+- Ran the whole suite from `testng.xml` through Maven Surefire with `mvn test`
+
+</details>
+
+<details open>
+<summary><b>OrangeHRM Automation Framework</b> · Selenium, Java, TestNG, Maven</summary>
+<br/>
+
+- Automated login/logout, PIM, Leave/Time, and Admin flows
+- Built on Page Object Model with data-driven tests, explicit waits, and parallel/cross-browser runs
+- Added Extent/Allure reports, Log4j logging, failure screenshots, and Jenkins/GitHub Actions CI
+
+</details>
 
 ---
 
 # 📊 GitHub Stats
 
+<details open>
+<summary><b>Stats, streak and activity</b></summary>
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Ibrahim-Kaldish&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ibrahim-Kaldish&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" height="170" />
+<img src="https://github-readme-stats.shion.dev/api?username=Ibrahim-Kaldish&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats card" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ibrahim-Kaldish&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages card" height="170" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ibrahim-Kaldish&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Ibrahim-Kaldish&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
 
@@ -146,15 +166,7 @@
 
 </div>
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
+</details>
 
 ## 💰 You can help me by Donating
 
@@ -162,7 +174,7 @@
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IbrahimKaldish)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="" width="100%" />
 
 </div>
 
