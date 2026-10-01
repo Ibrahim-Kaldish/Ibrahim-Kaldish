@@ -156,13 +156,7 @@
 <img src="https://github-readme-stats.shion.dev/api?username=Ibrahim-Kaldish&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats card" height="170" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ibrahim-Kaldish&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most used languages card" height="170" />
 
-<br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ibrahim-Kaldish&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Kaldish&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
